@@ -1,43 +1,35 @@
-# 🏦 Apache Fineract Customization - Savings & Loan Optimization
-> **Backend Java Development | Financial Systems | Performance Tuning**
+# Hola, soy Daniel Lara 👋 
+### Backend Java Developer | Tech Lead | Spring Boot Specialist
 
-Este proyecto detalla mi colaboración técnica en el ecosistema de **Apache Fineract**, enfocada en la optimización de procesos críticos de carga masiva de datos y resolución de incidencias en el módulo de ahorros.
-
----
-
-## 🚀 Tecnologías y Herramientas
-* **Lenguaje:** Java 17 / Java 21 (Modern Java Features)
-* **Framework:** Spring Boot, JPA / Hibernate
-* **Build Tool:** Gradle
-* **Gestión & QA:** Jira, Scrum Methodology
-* **Documentación de API:** Swagger / Postman (Caja negra)
+Soy un ingeniero apasionado por la arquitectura de software escalable y el liderazgo técnico. Cuento con una sólida trayectoria en el ecosistema **Java (17/21)**, microservicios y optimización de sistemas críticos.
 
 ---
 
-## 🛠️ Desafíos Técnicos y Soluciones
+## 🚀 Experiencia Profesional Destacada (Private Repos)
+Aunque estos proyectos pertenecen a entornos corporativos privados, mi contribución técnica incluyó:
 
-### 1. Optimización de Carga Masiva (Batch Processing)
-**Problema:** Latencia alta en la carga masiva de ahorros, créditos y depósitos recurrentes.
-**Solución:** Rediseño y optimización de **DTOs** y servicios de la API para reducir el overhead de serialización. Implementación de mejoras en la lógica de persistencia para manejar grandes volúmenes de datos financieros de forma eficiente.
-
-### 2. Resolución de Incidencias en Ahorros (Accruals)
-**Problema:** Errores en el cálculo de devengos (accruals) y post-intereses en cuentas de ahorro.
-**Solución:** Debugging profundo y ajuste de la lógica de negocio utilizando **JPA/Hibernate**, asegurando la integridad de los datos financieros según las reglas de negocio del sistema.
-
-### 3. Documentación y Calidad (QA)
-* Ejecución de **pruebas de caja negra** para asegurar la estabilidad de los nuevos endpoints.
-* Documentación técnica detallada en **Swagger** para facilitar el consumo de la API por otros módulos.
-* Gestión del ciclo de vida del software mediante el flujo de trabajo de **Jira**.
+* **Superette (E-commerce & Logistics):** Liderazgo técnico en el desarrollo de APIs con **Java 17/Spring Boot** y contenedores **Docker**. Optimización de inventarios físicos mediante módulos de escaneo.
+* **HTS (Hospital Management):** Modernización de arquitectura hacia microservicios, implementación de **API Gateway** con **JWT** y migración de datos mediante **Stored Procedures**.
 
 ---
 
-## 🏗️ Arquitectura
-El proyecto sigue una arquitectura de microservicios robusta, diseñada para ser escalable y modular, facilitando la integración de nuevos productos financieros.
+## 🛠️ Stack Tecnológico
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
 ---
 
-## 💻 Cómo ejecutar el proyecto (Local)
+## 🏆 Proyectos Destacados (Open Source)
+* **Apache Fineract:** Optimización de carga masiva de datos financieros con **Java 21**.
+* **Mente Conecta:** Seguridad avanzada (**OTP/RBAC**) en entornos de salud con **Django**.
+* **Talento Visible:** Lógica de proctoring y temporizadores en **Laravel**.
 
-1. **Clonar el repositorio:**
-   ```bash
-   git clone [https://github.com/danielales2541/nombre-del-repo.git](https://github.com/danielales2541/nombre-del-repo.git)
+---
+
+## 📫 Conectemos
+* **LinkedIn:** [linkedin.com/in/daniel-lara-backend](https://linkedin.com/in/daniel-lara-backend)
+* **Ubicación:** Estado de México
