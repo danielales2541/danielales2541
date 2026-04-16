@@ -1,5 +1,5 @@
 # Hola, soy Daniel Lara 👋 
-### Backend Java Developer | Tech Lead | Spring Boot Specialist
+### Backend Java Developer | Spring Boot Specialist
 
 Soy un ingeniero apasionado por la arquitectura de software escalable y el liderazgo técnico. Cuento con una sólida trayectoria en el ecosistema **Java (17/21)**, microservicios y optimización de sistemas críticos.
 
